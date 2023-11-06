@@ -38,6 +38,7 @@ Multicall2 is the same as Multicall, but provides addition functions that allow 
 | Rinkeby | [0x5ba1e12693dc8f9c48aad8770482f4739beed696](https://rinkeby.etherscan.io/address/0x5ba1e12693dc8f9c48aad8770482f4739beed696#contracts) |
 | Görli   | [0x5ba1e12693dc8f9c48aad8770482f4739beed696](https://goerli.etherscan.io/address/0x5ba1e12693dc8f9c48aad8770482f4739beed696#contracts) |
 | Ropsten | [0x5ba1e12693dc8f9c48aad8770482f4739beed696](https://ropsten.etherscan.io/address/0x5ba1e12693dc8f9c48aad8770482f4739beed696#code) |
+| Sepolia | [0xF84eEF2e3419BA1521e703a2EaA9756E10326601](https://sepolia.etherscan.io/address/0xf84eef2e3419ba1521e703a2eaa9756e10326601#code) |
 
 ### Third-Party Deployments
 
